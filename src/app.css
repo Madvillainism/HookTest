@@ -1,0 +1,21 @@
+.container {
+  width: 100vw;
+  margin-bottom: 20%;
+}
+
+.center {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.boot {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  width: 100%;
+  max-width: 30%;
+  margin: 0 auto;
+  justify-content: center;
+}

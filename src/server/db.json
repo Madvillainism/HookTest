@@ -1,0 +1,11 @@
+{
+  "dogs": {
+    "breed": "yorkshire",
+    "tail": 1,
+    "paws": 4
+  },
+  "users": {
+    "email": "carlos@gmail",
+    "password": "xdxd"
+  }
+}
